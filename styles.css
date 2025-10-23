@@ -304,3 +304,12 @@ body.hidden-theme input:checked+.slider {
 body.hidden-theme input:checked+.slider:before {
 	background-color: #00FF00;
 }
+
+footer {
+	text-align: center;
+	margin-top: 50px;
+	padding: 15px;
+	background-color: #f3f3f3;
+	color: #333;
+	font-size: 14px;
+}
